@@ -1,0 +1,26 @@
+{
+    "name":"Hocon Config",
+    "version":"1.0.0",
+    "author":"Jan Brunemann",
+    "location":"",
+    "directory":"error",
+    "createPackageDirectory":true,
+    "packageDirectory":"",
+    "homepage":"",
+    "documentation":"",
+    "repository":{
+        "type":"",
+        "URL":""
+    },
+    "bugs":"",
+    "slug":"cfm-error",
+    "shortDescription":"Human-Optimized Config Object Notation is a format for human-readable data, and a superset of JSON.",
+    "description":"Human-Optimized Config Object Notation is a format for human-readable data, and a superset of JSON. It is primarily used in conjunction with the Play framework, and is developed by Typesafe.",
+    "instructions":"",
+    "changelog":"",
+    "type":"",
+    "keywords":[
+        
+    ],
+    "private":false
+}
